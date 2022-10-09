@@ -1,4 +1,4 @@
-# Projects
+# Image Classification
 A simple image classificaton code.
 
 Dataset used- Iris Flower Dataset (Classes- Virginica, Setosa, Versicolor).
